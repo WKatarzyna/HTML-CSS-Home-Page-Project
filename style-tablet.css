@@ -1,0 +1,64 @@
+@media only screen and (min-width: 720px){
+
+.container {
+  width: 670px;
+}
+
+.logo {
+  margin-top: 20px;
+}
+
+.menu ul li {
+  display: inline-block;
+  font-size: 14px;
+}
+
+button.burger-menu {
+  visibility: hidden;
+  width: 0;
+  height: 0;
+}
+
+h2 {  
+  font-size: 22px; 
+  line-height: 46px;
+}
+
+.paragraph_center p { 
+  font-size: 18px; 
+}
+
+#box-holder {
+  width: 100%;
+}
+
+.container_box {
+  width: 100%;
+}
+
+.courses_box {
+  display: inline-block;
+  width: 46%;
+  height: 300px;
+  margin: 10px;
+}
+
+.box-info {
+  padding-top: 20px;
+}
+
+h3 {
+  padding-bottom: 15px;
+  font-size: 18px;
+}
+
+button.transparent {
+  padding: 5px;
+  margin-top: 0px; 
+}
+
+.bottom_paragraph {
+  font-size: 18px; 
+}
+
+}

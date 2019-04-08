@@ -1,0 +1,88 @@
+@media only screen and (min-width: 300px){
+
+.container {
+  width: 100%;
+}
+
+.nav-container {
+    width: 92%;
+    padding: 3%;
+}
+
+.logo {
+  margin-left: 15px;
+}
+
+.menu ul li {
+  display: none;
+}
+
+button.burger-menu {
+  visibility: visible;
+  width: 50px;
+  height: 50px;
+  background-image: url('Image/button.svg');
+  background-size: cover;
+  border: none;
+  border-radius: 50%;
+  opacity: 0.8;
+  cursor: pointer;
+}
+
+ .landingpage__text {
+  width: 96%;
+  padding: 0 3% 0 3%;
+}
+
+h1 {
+  font-size: 30px; 
+}
+
+div.landingpage__text p {
+  font-size: 18px;
+}
+
+#video_link {
+  font-size: 15px;
+}
+
+button.green_caps {
+  font-size: 15px;
+}
+
+h2 { 
+  font-size: 22px; 
+}
+
+.paragraph_center p { 
+  font-size: 18px;  
+}
+
+#box-holder {
+  width: 100%;
+  padding: 0 3% 0 3%;
+  position: relative;
+  align-items:center;
+}
+
+.courses_box {
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+}
+
+h3 {
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.box-info p {
+  font-size: 15px;
+  line-height: 25px;
+}
+
+.bottom_paragraph {
+  font-size: 18px; 
+}
+
+}
