@@ -11,6 +11,7 @@
 
 .logo {
   margin-left: 15px;
+  width: 120px;
 }
 
 .menu ul li {
@@ -60,7 +61,7 @@ h2 {
 
 #box-holder {
   width: 100%;
-  padding: 0 3% 0 3%;
+  box-sizing: border-box;
   position: relative;
   align-items:center;
 }
@@ -79,10 +80,14 @@ h3 {
 .box-info p {
   font-size: 15px;
   line-height: 25px;
+  margin-left:3px;
 }
 
 .bottom_paragraph {
   font-size: 18px; 
 }
 
+}
+a {
+  margin-left: 5px;
 }
